@@ -1,0 +1,13 @@
+{
+  "name": "quiz-arena-live-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Temporary in-memory realtime server for Quiz Arena",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.3"
+  }
+}
